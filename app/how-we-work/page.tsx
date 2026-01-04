@@ -85,19 +85,19 @@ const steps = [
 const benefits = [
   {
     title: 'Clear Communication',
-    description: 'Regular updates and transparent communication keep you informed at every stage.',
+    description: "Regular updates and transparent communication keep you informed at every stage.",
   },
   {
     title: 'Quality Focus',
-    description: 'Rigorous testing and code quality standards ensure reliable, maintainable software.',
+    description: "Rigorous testing and code quality standards ensure reliable, maintainable software.",
   },
   {
     title: 'Scalable Architecture',
-    description: 'We design systems that grow with your business and handle increasing demands.',
+    description: "We design systems that grow with your business and handle increasing demands.",
   },
   {
     title: 'Ongoing Partnership',
-    description: 'Long-term support ensures your software evolves with your changing needs.',
+    description: "Long-term support ensures your software evolves with your changing needs.",
   },
 ]
 
