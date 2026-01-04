@@ -12,7 +12,7 @@ const steps = [
     number: '01',
     icon: MessageSquare,
     title: 'Requirement Discussion',
-    description: 'We begin by understanding your vision, goals, and specific requirements. Through detailed discussions, we identify the problem you're solving, your target users, and the desired outcomes. This phase ensures we're aligned on expectations and project scope.',
+    description: "We begin by understanding your vision, goals, and specific requirements. Through detailed discussions, we identify the problem you're solving, your target users, and the desired outcomes. This phase ensures we're aligned on expectations and project scope.",
     details: [
       'Initial consultation and discovery',
       'Requirements gathering and documentation',
@@ -24,7 +24,7 @@ const steps = [
     number: '02',
     icon: Layout,
     title: 'Planning & Design',
-    description: 'With requirements in hand, we create a comprehensive project plan and design architecture. This includes system design, database schemas, user interface mockups, and technical specifications. We plan for scalability, security, and maintainability from the start.',
+    description: "With requirements in hand, we create a comprehensive project plan and design architecture. This includes system design, database schemas, user interface mockups, and technical specifications. We plan for scalability, security, and maintainability from the start.",
     details: [
       'System architecture design',
       'UI/UX wireframes and mockups',
@@ -36,7 +36,7 @@ const steps = [
     number: '03',
     icon: Code,
     title: 'Development',
-    description: 'Our development phase follows agile methodologies with regular updates and iterative improvements. We build using modern technologies, best practices, and clean code principles. Throughout development, we maintain clear communication and provide progress updates.',
+    description: "Our development phase follows agile methodologies with regular updates and iterative improvements. We build using modern technologies, best practices, and clean code principles. Throughout development, we maintain clear communication and provide progress updates.",
     details: [
       'Agile development methodology',
       'Regular progress updates',
@@ -48,7 +48,7 @@ const steps = [
     number: '04',
     icon: TestTube,
     title: 'Testing',
-    description: 'Quality assurance is integral to our process. We conduct thorough testing including unit tests, integration tests, and user acceptance testing. We ensure the software is bug-free, performs well, and meets all specified requirements before deployment.',
+    description: "Quality assurance is integral to our process. We conduct thorough testing including unit tests, integration tests, and user acceptance testing. We ensure the software is bug-free, performs well, and meets all specified requirements before deployment.",
     details: [
       'Unit and integration testing',
       'Performance and security testing',
@@ -60,7 +60,7 @@ const steps = [
     number: '05',
     icon: Rocket,
     title: 'Deployment',
-    description: 'We handle the complete deployment process, setting up hosting, configuring servers, and ensuring everything runs smoothly in production. We provide documentation and training to ensure you can manage and use the system effectively.',
+    description: "We handle the complete deployment process, setting up hosting, configuring servers, and ensuring everything runs smoothly in production. We provide documentation and training to ensure you can manage and use the system effectively.",
     details: [
       'Production environment setup',
       'Database migration and configuration',
@@ -72,7 +72,7 @@ const steps = [
     number: '06',
     icon: Headphones,
     title: 'Support',
-    description: 'Our relationship doesn't end at deployment. We provide ongoing support, maintenance, and optimization services. Whether you need bug fixes, feature enhancements, or system updates, we're here to ensure your software continues to serve your needs effectively.',
+    description: "Our relationship doesn't end at deployment. We provide ongoing support, maintenance, and optimization services. Whether you need bug fixes, feature enhancements, or system updates, we're here to ensure your software continues to serve your needs effectively.",
     details: [
       'Post-deployment support',
       'Bug fixes and maintenance',
