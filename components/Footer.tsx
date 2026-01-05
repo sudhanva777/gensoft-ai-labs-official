@@ -64,11 +64,11 @@ export default function Footer() {
             <ul className="space-y-3">
               <li>
                 <a
-                  href="mailto:gensoftxailabs@gmail.com"
+                  href="mailto:ailabsgensoftx@gmail.com"
                   className="flex items-center space-x-2 text-gray-600 hover:text-blue-600 transition-colors"
                 >
                   <Mail size={18} />
-                  <span>gensoftxailabs@gmail.com</span>
+                  <span>ailabsgensoftx@gmail.com</span>
                 </a>
               </li>
               <li>

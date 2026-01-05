@@ -80,7 +80,7 @@ export async function POST(request: NextRequest) {
     // Email content
     const mailOptions = {
       from: `GENSOFT AI LABS <${emailUser}>`,
-      to: 'gensoftxailabs@gmail.com',
+      to: 'ailabsgensoftx@gmail.com',
       subject: `New Project Enquiry from ${name}`,
       replyTo: email,
       html: `
@@ -334,7 +334,7 @@ Summary: ${projectSummary}`
               
               <div class="contact-info">
                 <p style="margin: 0 0 10px 0;"><strong>Need immediate assistance?</strong></p>
-                <p style="margin: 0;">Email us directly at: <a href="mailto:gensoftxailabs@gmail.com" style="color: #3b82f6; text-decoration: none;">gensoftxailabs@gmail.com</a></p>
+                <p style="margin: 0;">Email us directly at: <a href="mailto:ailabsgensoftx@gmail.com" style="color: #3b82f6; text-decoration: none;">ailabsgensoftx@gmail.com</a></p>
               </div>
               
               <p>We look forward to working with you on your project!</p>
@@ -360,7 +360,7 @@ Thank you for contacting GENSOFT AI LABS. We have successfully received your pro
 Our team typically responds to all enquiries within 24 hours. We'll get back to you soon to discuss your project requirements in detail.
 
 Need immediate assistance?
-Email us directly at: gensoftxailabs@gmail.com
+Email us directly at: ailabsgensoftx@gmail.com
 
 We look forward to working with you on your project!
 

@@ -25,7 +25,7 @@
 - All pages are fully responsive
 - Contact form opens email client with pre-filled details
 - Phone number: +91 88618 36384
-- Email: gensoftxailabs@gmail.com
+- Email: ailabsgensoftx@gmail.com
 
 ## Build for Production
 

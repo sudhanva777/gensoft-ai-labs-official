@@ -4,7 +4,7 @@ This guide will help you configure email delivery for the GENSOFT AI LABS contac
 
 ## Prerequisites
 
-- A Gmail account (gensoftxailabs@gmail.com or any Gmail account)
+- A Gmail account (ailabsgensoftx@gmail.com or any Gmail account)
 - 2-Step Verification enabled on your Google Account
 
 ## Step 1: Enable 2-Step Verification
@@ -30,7 +30,7 @@ This guide will help you configure email delivery for the GENSOFT AI LABS contac
 2. Add the following content:
 
 ```env
-EMAIL_USER=gensoftxailabs@gmail.com
+EMAIL_USER=ailabsgensoftx@gmail.com
 EMAIL_PASS=your-16-character-app-password-here
 ```
 
@@ -54,7 +54,7 @@ npm run dev
 1. Navigate to http://localhost:3000/contact
 2. Fill out the contact form
 3. Submit the form
-4. Check your email inbox (gensoftxailabs@gmail.com) for the new message
+4. Check your email inbox (ailabsgensoftx@gmail.com) for the new message
 
 ## Troubleshooting
 
@@ -101,7 +101,7 @@ When deploying to Vercel:
 
 The contact form sends emails with:
 - **Subject:** "New Project Enquiry – GENSOFT AI LABS"
-- **To:** gensoftxailabs@gmail.com
+- **To:** ailabsgensoftx@gmail.com
 - **Reply-To:** The sender's email address (so you can reply directly)
 - **Content:** Formatted HTML email with all form fields
 

@@ -30,7 +30,7 @@ Use this checklist to verify WhatsApp integration is working correctly.
 - [ ] No errors displayed to user
 
 **Verify Email Delivery**:
-- [ ] Check email inbox (gensoftxailabs@gmail.com)
+- [ ] Check email inbox (ailabsgensoftx@gmail.com)
 - [ ] Email received successfully
 - [ ] Email contains all form data
 - [ ] Email is properly formatted
